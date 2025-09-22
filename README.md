@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Profile README – Place in a repo named exactly after your GitHub username -->
 
-<!--
-**CyberGod45/CyberGod45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+BHAVIKKUMAR+VASAVA;DevSecOps+%7C+AI+%7C+Cybersecurity;Machine+Learning+%7C+LLMs+%7C+Cloud+Native" alt="Typing SVG" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Operational-00ff00?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Hacker%20Vibes-High-ff0000?style=for-the-badge&logo=matrix" />
+  <img src="https://img.shields.io/badge/Visitors-👁️%20∞-blue?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Toolset
+```bash
+Languages: Python • Go • JavaScript
+Platforms: Linux • Kubernetes • Docker • Cloud (AWS/GCP/Azure)
+Security: SIEM • IDS/IPS • Red/Blue Teaming • Threat Hunting
+AI/ML: PyTorch • TensorFlow • LangChain • Vector DBs
