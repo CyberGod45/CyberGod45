@@ -1,73 +1,59 @@
-<!-- README.md for GitHub profile (drop into a repo named exactly after your GitHub username) -->
+<!-- Profile README – put this in a repo named exactly like your GitHub username -->
 
+<h1 align="center">Hi 👋, I'm Bhavikkumar Vasava</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00ff99&center=true&vCenter=true&width=820&lines=BHAVIKKUMAR+VASAVA+•+Cybersecurity+Analyst+%26+Automation+Dev;DevSecOps+%7C+ML+%7C+LLMs+%7C+Threat+Hunting" alt="typing" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff99?style=for-the-badge&logo=github" alt="status" />
-  <img src="https://img.shields.io/badge/HACKER-VIBE-blue?style=for-the-badge&logo=visualstudiocode" alt="vibe" />
-  <img src="https://img.shields.io/badge/STACK-Python%20%7C%20Azure%20%7C%20K8s-00d4ff?style=for-the-badge" alt="stack" />
+  <em>Cybersecurity • DevSecOps • AI/ML • LLMs</em>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/assets/animated-code.gif" alt="hacker gif" width="720"/>
-</div>
+## 📊 GitHub Stats
 
----
-
-## 👨‍💻 About Me
-I’m **Bhavikkumar Vasava** — Cybersecurity Analyst & Jr Automation Developer who builds defensive automation, detection engineering, and scalable ML-driven security tools. I work across cloud (Azure), EDR, SIEM/SOAR, and MLOps to bridge Security ↔ DevOps.  
-(Resume source: uploaded CV). :contentReference[oaicite:0]{index=0}
-
----
-
-## 🛠 Tech & Tools (neon stack)
-- **Languages:** Python • PowerShell • Bash • JavaScript  
-- **Cloud & Infra:** Azure (Entra, KeyVault, Compute) • Docker • Kubernetes • CI/CD  
-- **Security:** CrowdStrike Falcon • Sophos EDR • SIEM / ELK • SOAR playbooks • Threat hunting  
-- **AI / ML / LLMs:** PyTorch • TensorFlow • LangChain • Vector DBs (RAG) • MLOps pipelines  
-- **Automation:** Security automation scripts, API integrations, ML model deployment
-
----
-
-## 🔭 Current Focus
-- Building DevSecOps pipelines with continuous scanning and automated remediation  
-- LLM-driven security assistants and Retrieval-Augmented Generation (RAG) for SOC analysts  
-- Process anomaly detection & ML models for reducing false positives in alerts  
-- Tooling & integrations for EDR, SIEM, and cloud security controls
-
----
-
-## ⚡ Projects (highlights)
-- **Process Anomaly Detector** — multi-environment detector to identify suspicious processes; reduced false positives by ~70%. :contentReference[oaicite:1]{index=1}  
-- **Email Spam Detection System** — ML/NLP system for classification and spam reduction (with UI & deployment pipeline). :contentReference[oaicite:2]{index=2}  
-- **E-Learning Platform (Diginerd)** — lead dev for frontend + backend integration (responsive UX). :contentReference[oaicite:3]{index=3}
-
-> Want to see code? Check my pinned repos and the `projects/` folder.
-
----
-
-## 🔐 Security Profile
-- Offensive & defensive mindset: hands-on experience with detection engineering, security automation, and incident response workflows.  
-- Familiar with secure coding checks, CI security gates, and MLOps for model safety.
-
----
-
-## 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=dark" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=dark" width="320" />
+  <!-- Overall GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGod45&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+
+  <!-- Most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGod45&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-## 🧩 Quick Snippets (drop into repos)
-**Badge for repo status**  
-`![status](https://img.shields.io/badge/STATUS-OPERATIONAL-00ff99)`
+## ⚡ Contribution Streak
 
-**Neon CLI banner (README snippet)**  
-```bash
-echo -e "\e[38;5;45m[OK]\e[0m System: Secure"
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CyberGod45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🚀 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberGod45&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## ✅ Metrics Summary
+<!-- These shields update dynamically with your stats -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/CyberGod45?label=Followers&style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/github/stars/CyberGod45?label=Total%20Stars&style=for-the-badge&color=00ff99" />
+  <img src="https://komarev.com/ghpvc/?username=CyberGod45&label=Profile%20Views&style=for-the-badge&color=green" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavikkumar%20Vasava-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavikkumar-vasava-b9744922a)
+[![Email](https://img.shields.io/badge/Email-bhavikvasava768%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bhavikvasava768@gmail.com)
+
+---
+
+> ✨ **Tip:**  
+> 1. Create a repository named **exactly** your GitHub username (e.g. `bhavikkumar-vasava`).  
+> 2. Add this `README.md` to that repo and commit.  
+> 3. Replace `<YOUR_USERNAME>` with your GitHub handle in all image URLs.
+
+This setup automatically shows **commits, pull requests, repos, contributions, streaks, and language usage** in real time using public GitHub stats services—no extra maintenance needed.
