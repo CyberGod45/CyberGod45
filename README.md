@@ -51,9 +51,5 @@
 
 ---
 
-> ✨ **Tip:**  
-> 1. Create a repository named **exactly** your GitHub username (e.g. `bhavikkumar-vasava`).  
-> 2. Add this `README.md` to that repo and commit.  
-> 3. Replace `<YOUR_USERNAME>` with your GitHub handle in all image URLs.
+> ✨ **Click ME(GO Here -------------> https://cybergod45.github.io/ <-------------------------To Check My Portfolio):**  
 
-This setup automatically shows **commits, pull requests, repos, contributions, streaks, and language usage** in real time using public GitHub stats services—no extra maintenance needed.
