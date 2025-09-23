@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CyberGod45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=CyberGod45)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=CyberGod45)](https://git.io/streak-stats) -->
 </p>
 
 ---
